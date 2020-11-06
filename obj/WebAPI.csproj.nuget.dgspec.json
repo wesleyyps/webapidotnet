@@ -85,23 +85,11 @@
               "version": "[3.1.9, 3.1.9]"
             },
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[3.1.9, 3.1.9]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
               "version": "[3.1.9, 3.1.9]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[3.1.9, 3.1.9]"
-            },
-            {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[3.1.9, 3.1.9]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
               "version": "[3.1.9, 3.1.9]"
             }
           ],
@@ -118,9 +106,6 @@
       },
       "runtimes": {
         "win10-x64": {
-          "#import": []
-        },
-        "win10-x86": {
           "#import": []
         }
       }
