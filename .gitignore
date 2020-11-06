@@ -1,0 +1,8 @@
+bin
+.history
+.vs
+WebAPI.csproj.user
+WebAPI.db
+obj/project.nuget.cache
+obj/Debug
+obj/Release
